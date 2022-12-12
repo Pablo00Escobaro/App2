@@ -1,0 +1,1 @@
+class NoDeepLinkException with Exception{}
